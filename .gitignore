@@ -1,3 +1,8 @@
+osg-3rdparty-cmake/Build/
+osg-3rdparty-cmake/Install/
+.vs/
+Build/
+Install/
 doc/all_Doxyfile
 doc/auto_Doxyfile
 doc/core_Doxyfile
